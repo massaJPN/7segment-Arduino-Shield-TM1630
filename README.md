@@ -49,9 +49,9 @@ TOPページ：https://akizukidenshi.com/catalog/c/c0/
 
 ## 使用例
 動画をご参照ください。  
-https://youtu.be/z4yhNrQsWkc
+[![紹介動画]()](https://youtu.be/z4yhNrQsWkc)  
 
 ## 関連ブログ
-https://massa4649.com/kt0937_2/
+https://massa4649.com/tm1630_1/
 
 以上です。
