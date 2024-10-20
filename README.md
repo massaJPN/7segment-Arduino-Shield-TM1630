@@ -8,7 +8,7 @@ Arduinoにスタックして動かせるキースキャン機能付き4桁7セ�
 
 ## バリエーション  
 ・基板のみ必要な方向けの【基板単品】と、必要部品をまとめた【部品キット】を準備しました。  
-完成形にする場合は、【基板単品】と【部品キット】の両方が必要です。  
+　完成形にする場合は、【基板単品】と【部品キット】の両方が必要です。  
 
 ### 【基板単品】
 ・両面基板仕様  １枚　サイズ(typ)：53.3 x 68.6 x 1.6 mm  
@@ -42,8 +42,8 @@ TOPページ：https://akizukidenshi.com/catalog/c/c0/
 
 ## 動作確認
 ・Arduino.ccサイトでリファレンス紹介されている”TM16xx LEDs and Buttons”ライブラリを使用して動作確認をしました。  
-サイト：https://reference.arduino.cc/reference/en/libraries/tm16xx-leds-and-buttons/  
-ただし、オリジナルでは、4桁の消去が上手くできなかったため、TM1630.cpp　ファイルの一部を下記の赤丸のように変更しました。  
+　サイト：https://reference.arduino.cc/reference/en/libraries/tm16xx-leds-and-buttons/  
+　ただし、オリジナルでは、4桁の消去が上手くできなかったため、TM1630.cpp　ファイルの一部を下記の赤丸のように変更しました。  
 
 ![cppファイル-50per](https://github.com/user-attachments/assets/d07a6450-0f7e-4b05-9a49-de5a71972214)  
 
