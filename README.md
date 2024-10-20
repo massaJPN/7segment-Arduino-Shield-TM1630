@@ -48,7 +48,7 @@ TOPページ：https://akizukidenshi.com/catalog/c/c0/
 ![cppファイル-50per](https://github.com/user-attachments/assets/d07a6450-0f7e-4b05-9a49-de5a71972214)  
 
 ### 動画  
-[![紹介動画]()](https://youtu.be/z4yhNrQsWkc)  
+[![紹介動画]()](https://youtu.be/ZaXRua2_uDM)  
 
 ## 関連ブログ
 https://massa4649.com/tm1630_1/
