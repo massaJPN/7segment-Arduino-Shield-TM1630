@@ -1,4 +1,4 @@
-# TM1630-Arduino-Shield
+# 7segment-Arduino-Shield-TM1630  
 https://massa4649.booth.pm/items/6125310 の製品説明となります。  
 
 ## 概要
